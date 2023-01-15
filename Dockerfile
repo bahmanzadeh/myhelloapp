@@ -1,4 +1,4 @@
-From httpd:2.4.54-bullseye
+FROM httpd:2.4.54-bullseye
 
 WORKDIR /usr/local/apache2/htdocs/
 
